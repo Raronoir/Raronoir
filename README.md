@@ -9,6 +9,8 @@
 <!---Raronoir/Raronoir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Google Dorks go for Google HDB:
+https://drive.google.com/drive/folders/1AiVk3U_PRgboqbhu8wbQBgV2K_nu-Icn
 
 Just a few survival guides, how to make fires etc. 
 
